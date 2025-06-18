@@ -1,2 +1,4 @@
-# tuning-derivatives-for-fairness-in-machine-learning
-Repo for the paper "Tuning derivatives for fairness in machine learning"
+# Tuning derivatives for fairness in machine learning
+Repo with example code and code to reproduce the simulation study in "Tuning derivatives for fairness in machine learning".
+
+Paper URL: TBA
